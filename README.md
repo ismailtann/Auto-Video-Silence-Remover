@@ -35,3 +35,7 @@ Geliştirici değilseniz veya kodu derlemekle uğraşmak istemiyorsanız:
 1. Sağ taraftaki **[Releases]** sekmesinden güncel `.exe` dosyasını indirin.
 2. Programın bulunduğu yere `ham_videolar` adında bir klasör açıp içine videolarınızı atın.
 3. Programı çalıştırın ve `cikti` klasöründen hazır videolarınızı alın!
+## 📥 Hemen İndir (v1.0.0)
+[![İndir](https://img.shields.io/badge/İndir-v1.0.0_EXE-blue?style=for-the-badge&logo=windows)](https://github.com/ismailtann/Auto-Video-Silence-Remover/releases/tag/v1.0.0)
+
+> **Not:** Kurulum gerektirmez. İndir ve çalıştır!
